@@ -131,15 +131,14 @@ The model is developed using a **publicly available credit card transactions dat
 ---
 
 ## Technologies Used
-- Python
-- TensorFlow / Keras
-- NumPy
-- Pandas
-- Scikit-learn
-- SciPy
-- Matplotlib
-- Seaborn
-
+- **Python** – core programming language
+- **TensorFlow / Keras** – deep learning framework for building and training the autoencoder
+- **NumPy** – numerical computation and matrix operations
+- **Pandas** – data loading, preprocessing, and analysis
+- **Scikit-learn** – preprocessing, evaluation metrics, PCA, and Isolation Forest
+- **SciPy** – probabilistic modeling using Gaussian distributions for anomaly scoring
+- **Matplotlib** – visualization of loss curves, ROC, precision–recall, and distributions
+- **Seaborn** – statistical visualization and confusion matrix heatmaps
 ---
 
 ## How to Run
